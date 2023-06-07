@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1504639725590-34d0984388bd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8aGFja2VyfGVufDB8fDB8fHww&w=1000&q=80)
+[![MasterHead](https://free4kwallpapers.com/uploads/originals/2021/04/25/a-for-programmers-wallpaper.png)
 <h1 align="center">Hi 👋, I'm Boafo Michael</h1>
 <h3 align="center">A passionate Cybersecurity and Programmer from Ghana</h3>
 <img align="right" alt="coding" width="400" src="https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg">
